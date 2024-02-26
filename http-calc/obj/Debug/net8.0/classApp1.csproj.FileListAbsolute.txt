@@ -1,0 +1,5 @@
+C:\codes\aspnet\udemy\classApp1\obj\Debug\net8.0\classApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\aspnet\udemy\classApp1\obj\Debug\net8.0\classApp1.AssemblyInfoInputs.cache
+C:\codes\aspnet\udemy\classApp1\obj\Debug\net8.0\classApp1.AssemblyInfo.cs
+C:\codes\aspnet\udemy\classApp1\obj\Debug\net8.0\classApp1.csproj.CoreCompileInputs.cache
+C:\codes\aspnet\udemy\classApp1\obj\Debug\net8.0\classApp1.MvcApplicationPartsAssemblyInfo.cache
